@@ -1,4 +1,4 @@
-#!/bin/shell 
+#!/bin/sh 
 
 #
 #	Script para instalação automatizada do Yara v4.1.3
@@ -156,4 +156,4 @@ else
 fi
 
 echo '	---- End of the Script ----'
-echo''
+echo ''
